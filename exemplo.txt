@@ -4,4 +4,5 @@ nova modificação
 versão 1.0.0
 nova alteração que talvez de conflito, adicionado remotamente
 alteração feita pelo github
+adicionado nova linha que talvez de conflito, localmente
 adicionada linha 6
