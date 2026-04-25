@@ -2,5 +2,6 @@ teste
 alteração nessa linha
 nova modificação
 versão 1.0.0
+nova alteração que talvez de conflito, adicionado remotamente
 alteração feita pelo github
 adicionada linha 6
