@@ -1,5 +1,4 @@
 teste
-
 adicionando nova linha
-
 nova modificação
+versão 1.0.0
