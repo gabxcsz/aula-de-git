@@ -3,3 +3,4 @@ adicionando nova linha
 nova modificação
 versão 1.0.0
 alteração feita pelo github
+adicionada linha 6
