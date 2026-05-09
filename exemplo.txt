@@ -8,4 +8,4 @@ adicionado nova linha que talvez de conflito, localmente
 adicionada linha 6
 resolvido conflito
 aqui uma nova função, porém arrumada
-outra função
+outra função modificado pelo github
