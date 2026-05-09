@@ -11,3 +11,4 @@ aqui uma nova função, porém arrumada
 outra função modificado pelo github
 outra função
 nova alteração
+.
