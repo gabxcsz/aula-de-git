@@ -6,6 +6,8 @@ nova alteração que talvez de conflito, adicionado remotamente
 alteração feita pelo github
 adicionado nova linha que talvez de conflito, localmente
 adicionada linha 6
-resolvido conflito
+conflito arrumado
 aqui uma nova função, porém arrumada
 outra função modificado pelo github
+outra função
+nova alteração
